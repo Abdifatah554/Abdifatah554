@@ -1,6 +1,0 @@
-- 👋 Hi🖐, I’m Abdifatah
-- 👀 I’m🎆🎉 interested in Html and css codes...
-- 🌱 I’m currently learning IT💻🖥 ...
-- 💞️ I’m looking to collaborate on House payment app.
-💬 Aska me About**psd,css,html,c#,php**
-- 📫 How to reach me try everything..
