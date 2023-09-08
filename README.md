@@ -6,7 +6,7 @@
 
 
 # 💫 About :
-🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning React JS, Node JS, Express JS & MongoDB<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - ______<br> 📫 How to reach me ahmedabdifatah.com
+🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning React JS, Node JS, Express JS & MongoDB<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - ______<br> 📫 How to reach me ahmedabdifatah@gmail.com
 
 
 ## 🌐 Socials:
