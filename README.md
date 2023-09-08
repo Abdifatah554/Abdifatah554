@@ -11,6 +11,8 @@
           <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/Abdifatah554?style=flat-square">
       </a>
   </div>
+  </div>
+</h1>
 <img alt="coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif" height="500vh" >
 <h1 align="center"> Hi 👋,&nbsp; I'm Sumanth S Mayakar </h1>
 <p align="center">
@@ -43,4 +45,4 @@
 [![](https://visitcount.itsvg.in/api?id=SumanthSMayakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
     
-</h1>
+
