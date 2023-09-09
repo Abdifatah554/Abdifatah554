@@ -28,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=Abdifatah554&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="left" style="margin: 40px 0">
       <!-- Followers -->
-      <a href="https://github.com/Abdifatah?tab=followers">
+      <a href="https://github.com/Abdifatah554?tab=followers">
           <img width="130px" height="23px" style="border-radius: 3px" src="https://img.shields.io/github/followers/Abdifatah554?style=flat-square">
       </a>
   </div>
